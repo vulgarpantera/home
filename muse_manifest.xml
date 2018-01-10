@@ -1,0 +1,49 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1454640859708">
+  <folder name="css">
+    <file name="site_global.css" crc="4039346591"/>
+    <file name="index.css" crc="4231171730" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fundo_azul_phone.jpg" crc="290169011" seo="true" ref="phone>index"/>
+    <file name="repertorio.png" crc="273636640" seo="true" ref="phone>index:index"/>
+    <file name="cowboysfromhell.jpg" crc="234285750" seo="true" ref="phone>index:index"/>
+    <file name="vulgardisplayofpower.jpg" crc="3857955618" seo="true" ref="phone>index:index"/>
+    <file name="pantera-farbeyonddriven.jpg" crc="143548456" seo="true" ref="phone>index:index"/>
+    <file name="42726ceb0a04873ac48de98b85b8ce131000x1000x1.jpg" crc="4127820715" seo="true" ref="phone>index:index"/>
+    <file name="pantera_reinventing_the_steel.jpg" crc="3948830046" seo="true" ref="phone>index:index"/>
+    <file name="vulgar_logo357x167.png" crc="468179203" seo="true" ref="phone>index"/>
+    <file name="fogo2.jpg" crc="4051248389" ref="phone>index:index"/>
+    <file name="redes_sociais.png" crc="153704830" seo="true" ref="phone>index:index"/>
+    <file name="face_print.jpg" crc="3812015904" seo="true" ref="phone>index:index"/>
+    <file name="screen shot 2016-02-04 at 15215 am.jpg" crc="4084559136" seo="true" ref="phone>index:index"/>
+    <file name="screen shot 2016-02-04 at 15316 am.jpg" crc="499507628" seo="true" ref="phone>index:index"/>
+    <file name="12391072_1045378212186247_7696188910392695656_n.jpg" crc="262003183" seo="true" ref="phone>index:index"/>
+    <file name="b2b742ec-150e-45e8-8809-479e01760f06.jpg" crc="3867012171" seo="true" ref="phone>index:index"/>
+    <file name="b54d5c90-bb1f-4a2f-b036-86b3b28e5500.jpg" crc="529236728" seo="true" ref="phone>index:index"/>
+    <file name="release_2016a.png" crc="4178736702" seo="true" ref="phone>index:index"/>
+    <file name="dsc01618.jpg" crc="3770474314" seo="true" ref="phone>index:index"/>
+    <file name="contato.png" crc="146203666" seo="true" ref="phone>index:index"/>
+    <file name="integrantes_release_phone.jpg" crc="3993110317" seo="true" ref="phone>index"/>
+    <file name="fundo_azul.jpg" crc="447375627" seo="true" ref="index"/>
+    <file name="vulgar_logo.png" crc="161641079" seo="true" ref="index"/>
+    <file name="integrantes_release4.jpg" crc="181946908" seo="true" ref="index"/>
+    <file name="youtube-logo-light.png" crc="166461034" seo="true" ref="index"/>
+    <file name="facelogo.png" crc="235307646" seo="true" ref="index"/>
+    <file name="vulgar (35 of 40).jpg" crc="367606449" seo="true" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4203257004" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="475057756" seo="true" mt="1454640848221" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="502097021" seo="true" mt="1454640753219" redirect="true"/>
+</manifest>
